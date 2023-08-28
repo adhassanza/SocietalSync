@@ -1,0 +1,2 @@
+# SocietalSync
+Community connect platform 

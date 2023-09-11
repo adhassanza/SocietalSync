@@ -1,4 +1,4 @@
-# Community Connect
+# Societal Sync
 ## Web application for building community for entrepreneurs
 - This application helps entrepreneurs post their problems and achievements or success stories for motivation.
 - It maintains a dynamic feed for every user based on their activity.
